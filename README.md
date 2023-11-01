@@ -1,6 +1,6 @@
 # API tests
 
-This is a basic automation framework for testing https://petstore.swagger.io/ in Python.
+This is a basic automation framework for testing API in Python.
 
 ## Prerequisites
 
